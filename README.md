@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm proficient in Mandarin—fluent enough to code and chat in two languages!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
