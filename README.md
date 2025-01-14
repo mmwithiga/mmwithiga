@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **blockchain technologies and cryptography**
 
-- 💬 Ask me about **vue,python,PowerBI**
+- 💬 Ask me about **vue,python,kotlin**
 
 - 📫 How to reach me **michael.mwithiga1@gmail.com**
 
